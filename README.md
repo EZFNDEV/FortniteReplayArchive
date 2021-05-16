@@ -13,6 +13,6 @@ Please note, we'll be limiting it to up to 50 *non-special* replays**¹** per bu
 | Name                                              | Reason                                                           |
 |---------------------------------------------------|------------------------------------------------------------------|
 | [JunctionNinja](https://github.com/JunctionNinja) | For helping me and uploading some older replays                  |
-| (EZFNDEV)[https://github.com/EZFNDEV]             | For starting this project and uploading some replays             |                
-| (Sponger)[https://github.com/SpongerXD]           | For sending me event replays                                     |                                                           
+| [EZFNDEV](https://github.com/EZFNDEV)             | For starting this project and uploading some replays             |                
+| [Sponger](https://github.com/SpongerXD)           | For sending me event replays                                     |                                                           
 | jemcer#1009                                       | For sending me 16.4 replays                                      |                                                           
